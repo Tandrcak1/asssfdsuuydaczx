@@ -1,0 +1,319 @@
+* {
+
+    margin:  0;
+    padding: 0;
+
+}
+
+.pre-header {
+
+    background-color: #111618; /* Yi Mummy - Pocetak*/
+    height: 68px;
+    color: #fff;
+
+}
+
+.pre-header p {
+
+    margin-right: 5px;
+
+
+}
+
+.pre-header .container .row .col-md-6 .ttt {
+
+    margin-top: 20px;
+    text-transform: uppercase;
+
+}
+
+.pre-header .main-menu {
+
+    list-style: none;
+
+}
+
+.pre-header .main-menu li {
+    display: block;
+    margin-left: 10px;
+    padding-top: 20px;
+
+}
+
+.pre-header .main-menu li a {
+
+    color: #fff;
+    text-transform: uppercase;
+
+}
+
+.pre-header .main-menu a {
+
+    margin-left: 10px;
+    background-color: #404040;
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: 1px solid #fff;
+    transition: 0.6s;
+
+}
+
+.pre-header .main-menu a:hover {
+
+    color: #4165a3;
+    background: transparent;
+
+}
+
+
+.ban {
+    background: url(../images/skrim.jpg);/* Yi Mummy - Opis*/
+    padding-bottom: 105px;
+    padding-top: 105px;
+    background-size: cover;
+    list-style: none;
+
+}
+
+.ban h1 {
+
+    background-color: #236482;
+    text-transform: uppercase;
+    color: #fff;
+    font-size: 50px;
+    font-family: Consolas;
+    display: inline-block;
+    padding-right: 5px;
+    padding-left: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+
+
+
+}
+
+.ban p {
+    text-transform: uppercase;
+    color: #ffffff;
+
+}
+
+.ban a {
+
+    background-color: #fff;
+    border: 1px solid #fff;
+    padding: 10px;
+    margin-right: 10px;
+    color: #236482;
+    transition: 0.8s;
+    display: inline-block;
+
+
+}
+
+.ban a:hover {
+    color: #fff;
+    background-color: transparent;
+    background-color: transparent;
+}
+
+.services-selection {
+
+    padding-bottom: 130px;/* Yi Mummy - Servisi*/
+    padding-top: 100px;
+
+
+
+}
+
+.services-selection h3 {
+
+    text-align: center;
+
+}
+
+.services-selection h2 {
+
+    text-align: center;
+
+}
+
+.services-selection p {
+
+    text-align: center;
+    text-transform: uppercase;
+
+}
+
+.services-selection img {
+
+    display: inline-block;
+
+}
+
+.services-selection .selection-slike {
+
+    background-color: #404040;
+    padding-top: 15px;
+    padding-bottom: 25px;
+    padding-left: 35px;
+    padding-right: 35px ;
+    list-style: none;
+    transition: 0.5s;
+    -webkit-box-shadow:0 0 20px 0 rgba(0,0,0,0.5) ;
+    -moz-box-shadow:0 0 20px 0 rgba(0,0,0,0.5) ;
+    box-shadow:0 0 20px 0 rgba(0,0,0,0.5) ;
+
+}
+
+.services-selection .selection-slike:hover {
+
+    background-color: #4165a3;
+}
+
+.services-selection .selection-slike h3 {
+
+    color: #fff;
+    text-transform: uppercase;
+    margin-right: 5px;
+    text-align: center;
+
+}
+
+.services-selection .selection-slike p {
+
+    color: #fff;
+    text-transform: uppercase;
+    text-align: center;
+
+}
+
+.services-selection .selection-slike a {
+
+    color: #fff;
+    text-transform: uppercase;
+    border: 2px solid #111;
+    padding: 5px;
+
+}
+
+.how-it-work {
+
+    background-image: linear-gradient(40deg , #8f32a8 , #4165a3);
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background-size: cover;
+    list-style: none;
+    border: 1px solid #111;
+
+}
+
+.how-it-work h3 {
+
+    color: #111111;
+    text-align: center;
+    text-transform: uppercase;
+    background-size: cover;
+
+
+}
+
+.how-it-work h2 {
+
+    color: #111111;
+    text-align: center;
+    text-transform: uppercase;
+
+
+}
+
+.how-it-work .text {
+
+    margin-top: 5px;
+    color: #fff;
+
+}
+
+img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.how-it-work img {
+
+    -webkit-box-shadow: 2px 5px 10px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 2px 5px 10px 0px rgba(0,0,0,0.75);
+    box-shadow: 2px 5px 10px 0px rgba(0,0,0,0.75);
+}
+
+.how-it-work li {
+
+    color: #111111;
+    margin-left: 600px;
+    background-image: linear-gradient(30deg , #111 , #8f32a8);
+    display: inline-block;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    transition: 0.6s;
+
+}
+
+.how-it-work a {
+
+    color: #fff;
+    text-transform: uppercase;
+
+}
+
+.pay {
+
+    padding-top: 105px;
+    padding-bottom: 105px;
+
+}
+
+.pay h4 {
+
+    text-align: center;
+    text-transform: uppercase;
+
+}
+
+.pay .soon {
+
+    text-align: center;
+    font-family: "Franklin Gothic Medium";
+    margin-top: 30px;
+
+}
+
+.pay .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+
+}
+
+.after-footer {
+
+    background: #111618;
+    padding-top: 25px;
+    padding-bottom: 10px;
+
+}
+
+.after-footer p {
+
+    color: white;
+    margin-left: 25px;
+
+}
+
+
+
+
